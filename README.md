@@ -19,8 +19,8 @@ For the Second Demo: Images mostly collected from --->>>
 
 Slack Name: @Agata [OR, USA] 
 https://github.com/agatagruza/SmogDetection
-Slack Name: @Berenice <br />
-https://github.com/Berenice2018/BC_SmogDetection
+Slack Name: @Berenice
+https://github.com/Berenice2018/BC_SmogDetection  <br />
 Slack Name: @Ingus Terbets 
 https://github.com/ingus-t/PlanetEarth/
 Slack Name: @Shudipto Trafder 
