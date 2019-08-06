@@ -49,28 +49,28 @@ Slack Name: @Berenice
 https://github.com/Berenice2018/BC_SmogDetection
 
 Other repos related to the Dataset 
-
+~>
 Slack Name: @Ingus Terbets 
 https://github.com/ingus-t/PlanetEarth/
-~
+~>
 Slack Name: @Sayed Maheen Basheer
 https://github.com/SayedMaheen/PlanetEarth
-~
+~>
 Slack Name: @Akash Antony 
 https://github.com/kshntn/SmogDetection
-~
+~>
 Slack Name: @Shudipto Trafder 
 https://github.com/Iamsdt/Smoke_datasets
-~
+~>
 Slack Name: @Ashwin Ram 
 https://github.com/AshwinRam2000/Smoke_datasets
-~
+~>
 Slack Name: @Pooja Vinod 
 https://github.com/poojavinod100/SmogDetection
-~
+~>
 Slack Name: @Alexander Villasoto
 https://github.com/ArseniusNott/SmogDetection
-~
+~>
 Slack Name: @sourav kumar 
 https://github.com/souravs17031999/SmogDetection
-~
+~>
