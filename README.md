@@ -1,19 +1,19 @@
 # sg_PlanetEarth
 
-Project "Smog Detection"
-An Experiment Dataset to classify between Smog/Fog images and Clear Highway Images
-Sudden Appearance of Smog/Fog in Highways often cause accidents, we can automate the alert using traffic cams and using a trained model to detect Smog/Fog patterns. When Smog/Fog appears, the system notifies the drivers in that range.
-In practical situations with the above, we need to add sensors to detect the range of vision and presence of birds/materials blocking the vision of camera. There are plenty of other possibilities and advancements in computer vision.
+Project "Smog Detection" <br />
+An Experiment Dataset to classify between Smog/Fog images and Clear Highway Images <br />
+Sudden Appearance of Smog/Fog in Highways often cause accidents, we can automate the alert using traffic cams and using a trained model to detect Smog/Fog patterns. When Smog/Fog appears, the system notifies the drivers in that range. <br />
+In practical situations with the above, we need to add sensors to detect the range of vision and presence of birds/materials blocking the vision of camera. There are plenty of other possibilities and advancements in computer vision. <br />
 This one is meant for training a CNN model
 
 -----------------
 Next Update will be: Adding Night pics with/without Smog
 
 ---------------
-Second Demo Dataset (Smog4000) Contains total 4000 images: 2000 images in each label ("clear","smog")
-test_data = 800 (400 in each label) = 20% of 4000 (total)
-valid_data = 640 (320 in each label) = 20% of 3200 (train_data)
-train_data = 2560 + valid_data
+Second Demo Dataset (Smog4000) Contains total 4000 images: 2000 images in each label ("clear","smog") <br />
+test_data = 800 (400 in each label) = 20% of 4000 (total) <br />
+valid_data = 640 (320 in each label) = 20% of 3200 (train_data) <br />
+train_data = 2560 + valid_data <br />
 
 For the Second Demo: Images mostly collected from --->>>
 <br />
