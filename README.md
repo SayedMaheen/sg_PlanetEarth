@@ -16,7 +16,7 @@ valid_data = 640 (320 in each label) = 20% of 3200 (train_data)
 train_data = 2560 + valid_data
 
 For the Second Demo: Images mostly collected from --->>>
-
+<br />
 Slack Name: @Agata [OR, USA] 
 https://github.com/agatagruza/SmogDetection  <br />
 Slack Name: @Berenice
@@ -44,7 +44,7 @@ https://github.com/SayedMaheen/PlanetEarth  <br />
 
 First Demo Dataset (smoke_data) Contains total 400 images: 200 images in each label ("clear","smog")
 
-For the First Demo: Images mostly collected from --->>>
+For the First Demo: Images mostly collected from --->>> <br />
 Slack Name: @Berenice 
 https://github.com/Berenice2018/BC_SmogDetection
 
