@@ -18,25 +18,25 @@ train_data = 2560 + valid_data
 For the Second Demo: Images mostly collected from --->>>
 
 Slack Name: @Agata [OR, USA] 
-https://github.com/agatagruza/SmogDetection
+https://github.com/agatagruza/SmogDetection  <br />
 Slack Name: @Berenice
 https://github.com/Berenice2018/BC_SmogDetection  <br />
 Slack Name: @Ingus Terbets 
-https://github.com/ingus-t/PlanetEarth/
+https://github.com/ingus-t/PlanetEarth/  <br />
 Slack Name: @Shudipto Trafder 
-https://github.com/Iamsdt/Smoke_datasets
+https://github.com/Iamsdt/Smoke_datasets   <br />
 Slack Name: @Akash Antony 
-https://github.com/kshntn/SmogDetection
+https://github.com/kshntn/SmogDetection  <br />
 Slack Name: @Alexander Villasoto
-https://github.com/ArseniusNott/SmogDetection
+https://github.com/ArseniusNott/SmogDetection  <br />
 Slack Name: @sourav kumar 
-https://github.com/souravs17031999/SmogDetection
+https://github.com/souravs17031999/SmogDetection  <br />
 Slack Name: @Pooja Vinod 
-https://github.com/poojavinod100/SmogDetection
+https://github.com/poojavinod100/SmogDetection  <br />
 Slack Name: @Ashwin Ram 
-https://github.com/AshwinRam2000/Smoke_datasets
+https://github.com/AshwinRam2000/Smoke_datasets  <br />
 Slack Name: @Sayed Maheen Basheer
-https://github.com/SayedMaheen/PlanetEarth
+https://github.com/SayedMaheen/PlanetEarth  <br />
 
 
 
@@ -49,28 +49,28 @@ Slack Name: @Berenice
 https://github.com/Berenice2018/BC_SmogDetection
 
 Other repos related to the Dataset 
-~>
+<br />
 Slack Name: @Ingus Terbets 
 https://github.com/ingus-t/PlanetEarth/
-~>
+<br />
 Slack Name: @Sayed Maheen Basheer
 https://github.com/SayedMaheen/PlanetEarth
-~>
+<br />
 Slack Name: @Akash Antony 
 https://github.com/kshntn/SmogDetection
-~>
+<br />
 Slack Name: @Shudipto Trafder 
 https://github.com/Iamsdt/Smoke_datasets
-~>
+<br />
 Slack Name: @Ashwin Ram 
 https://github.com/AshwinRam2000/Smoke_datasets
-~>
+<br />
 Slack Name: @Pooja Vinod 
 https://github.com/poojavinod100/SmogDetection
-~>
+<br />
 Slack Name: @Alexander Villasoto
 https://github.com/ArseniusNott/SmogDetection
-~>
+<br />
 Slack Name: @sourav kumar 
 https://github.com/souravs17031999/SmogDetection
-~>
+<br />
