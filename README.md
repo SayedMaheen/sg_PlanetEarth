@@ -6,8 +6,6 @@ Sudden Appearance of Smog/Fog in Highways often cause accidents, we can automate
 In practical situations with the above, we need to add sensors to detect the range of vision and presence of birds/materials blocking the vision of camera. There are plenty of other possibilities and advancements in computer vision. <br />
 This one is meant for training a CNN model
 
------------------
-Next Update will be: Adding Night pics with/without Smog
 
 ---------------
 Second Demo Dataset (Smog4000) Contains total 4000 images: 2000 images in each label ("clear","smog") <br />
